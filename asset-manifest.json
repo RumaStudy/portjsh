@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portjsh/static/css/main.bb001e38.css",
-    "main.js": "/portjsh/static/js/main.8cfe39a8.js",
+    "main.css": "/portjsh/static/css/main.a6e91575.css",
+    "main.js": "/portjsh/static/js/main.986a3eb5.js",
     "static/js/787.1eb4c52a.chunk.js": "/portjsh/static/js/787.1eb4c52a.chunk.js",
     "static/media/GmarketSansTTFBold.ttf": "/portjsh/static/media/GmarketSansTTFBold.69428064ef8eee25be33.ttf",
     "static/media/GmarketSansTTFMedium.ttf": "/portjsh/static/media/GmarketSansTTFMedium.d4bac6b182bed73c9375.ttf",
@@ -19,12 +19,12 @@
     "static/media/slick.woff": "/portjsh/static/media/slick.295183786cd8a1389865.woff",
     "static/media/dice4.svg": "/portjsh/static/media/dice4.72b5960a266920634989ef6d9b1eeba3.svg",
     "index.html": "/portjsh/index.html",
-    "main.bb001e38.css.map": "/portjsh/static/css/main.bb001e38.css.map",
-    "main.8cfe39a8.js.map": "/portjsh/static/js/main.8cfe39a8.js.map",
+    "main.a6e91575.css.map": "/portjsh/static/css/main.a6e91575.css.map",
+    "main.986a3eb5.js.map": "/portjsh/static/js/main.986a3eb5.js.map",
     "787.1eb4c52a.chunk.js.map": "/portjsh/static/js/787.1eb4c52a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb001e38.css",
-    "static/js/main.8cfe39a8.js"
+    "static/css/main.a6e91575.css",
+    "static/js/main.986a3eb5.js"
   ]
 }
