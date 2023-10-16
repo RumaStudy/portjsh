@@ -1,8 +1,8 @@
-<a href="https://">
+<a href="https://rumastudy.github.io/portjsh">
 <img src=""/>
 </a>
 
-- 배포 URL :
+- 배포 URL : https://rumastudy.github.io/portjsh
 
 ## 🙋 프로젝트 소개
 
